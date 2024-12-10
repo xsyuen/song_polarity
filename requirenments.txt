@@ -1,7 +1,7 @@
 nltk
-textbolb
+textblob
 pandas
 numpy
 xlrd
-oppenpyxl
+openpyxl
 streamlit
